@@ -4,8 +4,6 @@ Frontend engineer at Tianjin · React & Testing
 Self-studying ML with a specific destination in mind: I want to understand 
 how large language models actually work, not just use them.
 
----
-
 ## What I'm doing
 
 **At work:** React, component testing, frontend systems  
@@ -19,15 +17,11 @@ Recent checkpoints:
 The goal isn't to collect techniques. It's to build a model of how things work 
 well enough that I can reason about new problems from first principles.
 
----
-
 ## How I think
 
 Structure before strategy. I want to know why something works before I 
 decide whether to use it. This slows me down sometimes and saves me more 
 often.
-
----
 
 ## Elsewhere
 
