@@ -1,30 +1,19 @@
 # Shaoyi Chen
 
-Frontend engineer at Tianjin · React & Testing  
-Self-studying ML with a specific destination in mind: I want to understand 
-how large language models actually work, not just use them.
+Frontend engineer. Self-studying toward LLM internals.
 
-## What I'm doing
+**Day job:** React, component testing  
+**Outside:** CS231n → CS224n → nanoGPT
 
-**At work:** React, component testing, frontend systems  
-**Outside work:** Tracing a path through CS231n → CS224n → nanoGPT reproduction
+What's here:
+- [`machine_learning`](https://github.com/ShaoBuFan/machine_learning) —
+  MNIST (MLP → CNN, 91% → 99%), Kaggle stacking ensemble
+- [`codeCLI`](https://github.com/ShaoBuFan/codeCLI) —
+  zero-dependency terminal AI agent, pure Python stdlib
+- [`ShaoBuFan.github.io`](https://ShaoBuFan.github.io) —
+  personal existence timer
 
-Recent checkpoints:
-- MLP on MNIST: SGD 91.2% → switched to Adam → 96.8%
-- Added convolutions → 99.1%
-- Kaggle House Prices: Ridge Regression → XGBoost → Stacking ensemble
+Open source: [jest-dom #719](https://github.com/testing-library/jest-dom/pull/719)
 
-The goal isn't to collect techniques. It's to build a model of how things work 
-well enough that I can reason about new problems from first principles.
-
-## How I think
-
-Structure before strategy. I want to know why something works before I 
-decide whether to use it. This slows me down sometimes and saves me more 
-often.
-
-## Elsewhere
-
-Tianjin · born 2001 · INTP  
-Ambient music, 明日方舟, EVA, abstract systems  
-Learning Japanese (currently: kana)
+---
+Tianjin · 2001
