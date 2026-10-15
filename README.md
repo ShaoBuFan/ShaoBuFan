@@ -7,6 +7,12 @@ Frontend engineer. Self-studying toward LLM internals — mostly by building thi
 **Day job:** React, component testing  
 **Outside:** CS231n → CS224n → nanoGPT
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShaoBuFan&show_icons=true" width="467" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaoBuFan&layout=compact&card_width=467" width="467" alt="Most used languages" />
+</p>
+
 What's here:
 
 - [`Herald`](https://github.com/ShaoBuFan/Herald) —
