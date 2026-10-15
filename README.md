@@ -8,8 +8,6 @@ Frontend engineer. Self-studying toward LLM internals.
 What's here:
 - [`machine_learning`](https://github.com/ShaoBuFan/machine_learning) —
   MNIST (MLP → CNN, 91% → 99%), Kaggle stacking ensemble
-- [`codeCLI`](https://github.com/ShaoBuFan/codeCLI) —
-  zero-dependency terminal AI agent, pure Python stdlib
 - [`ShaoBuFan.github.io`](https://ShaoBuFan.github.io) —
   personal existence timer
 
